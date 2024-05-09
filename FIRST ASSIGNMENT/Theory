@@ -1,0 +1,87 @@
+FIRST CLASS ASSIGNMENT
+NAME: AGUDA TAIWO BLESSING
+
+QUESTION 1: What are clients in the context of the internet, and can you provide 2 examples of client
+devices?
+
+ANSWER:
+(a) Clients is a user program that connects to a server to access a service
+(b) Laptops, Smartphones.
+
+QUESTION 2: What is the role of servers in the context of the web and how do they interact with client
+devices?
+
+ANSWER:
+(a) The role of web server is to primarily process and manage HTTP/HTTPS requests and
+responses from the client system i.e. It store, process, and deliver requested information or
+webpages to end users. It can also store and protect website data from unauthorized users.
+
+(b) Web servers interact with client devices through a request-response cycle. Once an HTTP
+server is set to listen to a specific port, the server waits for client requests coming to that
+specific port, performs any actions stated by the request, and sends any requested data via
+an HTTP response.
+
+QUESTION 3: What is a DNS server and why is it important in accessing websites on the internet?
+
+ANSWER:
+(a) The Domain Name System (DNS) is the phonebook of the internet, and
+
+(b) It is important in accessing websites as it’s responsible for finding the correct IP address for
+those sites type into the web browsers by users.
+
+QUESTION 4: What are the 3 basic level of DNS?
+
+ANSWER:
+(a) Root Name Server (RNS) which stores the IP addresses of the Top Level Domain (TLD) name
+servers.
+
+(b) TLD Name Server (TLDNS) which stores the IP addresses of authoritative name servers.
+
+(c) Authoritative Name Server (ANS) which provides the actual answer to the domain name
+server (DNS) query.
+
+QUESTION 5: What is an IP address and explain its importance in the internet infrastructure?
+
+ANSWER:
+(a) An IP address is a unique address that identifies a device on the internet or a local network.
+It is a numeric value assigned to a network device and it is used for the identification and
+location of a network device.
+
+(b) In internet infrastructure , The IP address allows two machines to identify each other and
+talk to each other, exchanging data on the internet
+
+QUESTION 6: What are small chunks of data transferred over the internet called?
+
+ANSWER:
+(a) It is called a Packet.
+
+QUESTION 7: What is the role of the head, title and body tags in an html documents?
+
+ANSWER:
+(a) <head> tag: is a container for metadata (data about data) and is placed between the <html>
+tad and the <body> tag.
+
+(b) <title> tag: defines the title of the document and it must be text-only.
+
+(c) <body> tag: defines the document’s body, it contains all the contents of an HTML
+document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+QUESTION 8: What is semantic html and why is it important?
+
+ANSWER:
+(a) Semantic HTML refers to the use of HTML tags to convey the meaning of the content
+contained within them. Examples are <header>, <nav>, <aside>, <figure>, etc.
+
+(b) It is important for
+i. Accessibility
+ii. Search Engine Optimization (SEO): Pages with correctly implemented semantic
+HTML have an advantage in SEO over those that don’t.
+
+QUESTION 9: Why is accessibility important?
+
+ANSWER:
+(a) Accessibility is important because
+For sighted users (it will be easy to identify the various part of a web page) and for blind or
+visually impaired users who rely on screen readers, the proper use of HTML semantic tags
+will allow these readers to understand the content better because it will communicate the
+content more accurately.
