@@ -35,3 +35,6 @@ image, a title, and a short description. Ensure the cards are evenly spaced and
 stay in a row on larger screens but stack on smaller screens.
 4. Create the same list of three cards using CSS Grid instead of Flexbox. Ensure the
 cards have equal width and are evenly spaced within the grid container.
+
+THIRD ASSIGNMENT
+Create a github account and push everything(assignment) you've done .
