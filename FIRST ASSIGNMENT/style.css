@@ -1,0 +1,43 @@
+/*spacing*/
+.content-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgb(red, green, blue);
+    background-color: white;
+    color: black;
+}
+
+.content-table thead tr {
+    background-color: rgb(25, 181, 181);
+    text-align: center;
+    font-weight: bold;
+}
+.content-table th,
+.content-table td {
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: springgreen;
+    background-color: transparent;
+    text-decoration: underline;
+}

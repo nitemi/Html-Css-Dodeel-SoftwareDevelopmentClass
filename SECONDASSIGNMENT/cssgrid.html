@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSS grid layout</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 10px;
+    padding: 10px;
+  }
+  .card {
+    background-color: whitesmoke;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  h2 {
+    margin-bottom: 10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="card">
+    <img src="Images/logo1.jpg" alt="Image 1">
+    <h2>Company logo</h2>
+    <p>This logo shows the description of a company nwhich defines and signifies what they stand for</p>
+  </div>
+  <div class="card">
+    <img src="Images/image2.jpg" alt="Image 2">
+    <h2>Tech sis</h2>
+    <p>This is an image of a fulln stack developer sitted at her place of work coding</p>
+  </div>
+  <div class="card">
+    <img src="Images/image3.jpg" alt="Image 3">
+    <h2>Techhub</h2>
+    <p>This is a tech hub with a picture of a person using the hub for her daily activity</p>
+  </div>
+</div>
+
+</body>
+</html>
